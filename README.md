@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @prakhaaar
-- 👀 I’m interested in competative programming and Java.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in competative programming and web Devlopment.
+- 🌱 I’m currently learning web dev
+- 📫 reach me @:mprakhar07@gmail.com
+- ⚡#Debugging life with sarcasm
 
 <!---
 prakhaaar/prakhaaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
