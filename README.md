@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Debugging life one semicolon at a time 😎
 
 ## 🛠️ Tech Stack
-- 💡 **Languages**: JavaScript, C++, HTML, CSS
+- 💡 **Languages**: JavaScript, C++, HTML, CSS,C++,Java
 - 🌐 **Frontend**: React.js, Tailwind CSS, Bootstrap
 - 🧩 **Backend**: Node.js, Express.js
 - 🛢️ **Database**: MongoDB
