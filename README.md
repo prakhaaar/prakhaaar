@@ -1,20 +1,22 @@
-# 👋 Hi there! I'm Prakhar (@prakhaaar)
+# 👋 Hey, I'm Prakhar (@prakhaaar)
 
 ## 🚀 About Me
-- 🎯 Passionate about **Competitive Programming** & **Full Stack Web Development**
-- 🌱 Currently exploring the **MERN stack** and sharpening my DSA skills
-- 💻 I love building useful projects and solving real-world problems with code
-- ✉️ Reach me at: [mprakhar07@gmail.com](mailto:mprakhar07@gmail.com)
+- 🎯 Passionate about **Competitive Programming**, **AI**, & **Full Stack Web Development**
+- 🌱 Exploring **MERN**, **Next.js**, **TypeScript**, **Flutter**, and **Supabase**  
+- 💻 I build **AI-powered apps**, **interactive tools**, and solve real-world problems with code  
+- ✉️ Reach me at: [mprakhar07@gmail.com](mailto:mprakhar07@gmail.com)  
 - ⚡ Fun fact: Debugging life one semicolon at a time 😎
 
 ## 🛠️ Tech Stack
-- 💡 **Languages**: JavaScript, C++, HTML, CSS,C++,Java
-- 🌐 **Frontend**: React.js, Tailwind CSS, Bootstrap
-- 🧩 **Backend**: Node.js, Express.js
-- 🛢️ **Database**: MongoDB
-- 🧰 **Tools**: Git, VS Code, Postman, Vite
+- 💡 **Languages**: JavaScript, TypeScript, C++, Java, Dart, HTML, CSS  
+- 🌐 **Frontend**: React.js, Next.js, Flutter, Tailwind CSS, Bootstrap  
+- 🧩 **Backend**: Node.js, Express.js, Supabase  
+- 🛢️ **Database**: MongoDB, Supabase  
+- 🧰 **Tools**: Git, VS Code, Postman, Vite  
 
-## 📈 Current Focus
-- 🤖 Building a powerful **AI SaaS application** – blending AI capabilities with modern web technologies to solve real-world problems.
+## 📈 Current Projects
+- 🤖 **Interacto** – AI-powered interactive presentation platform  
+- 📝 **CP Helper** – Flutter-based competitive programming companion  
+- ⚡ Always experimenting with AI + modern web & mobile tech  
 
-> 🔗 Let's connect and build something awesome together!
+> 🔗 Let's build something insane together! 🚀
