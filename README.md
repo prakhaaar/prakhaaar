@@ -5,7 +5,8 @@
 - 🌱 Exploring **MERN**, **Next.js**, **TypeScript**, **Flutter**, and **Supabase**  
 - 💻 I build **AI-powered apps**, **interactive tools**, and solve real-world problems with code  
 - ✉️ Reach me at: [mprakhar07@gmail.com](mailto:mprakhar07@gmail.com)  
-- ⚡ Fun fact: Vibe coding is obsolete, real ones aura code.�
+- ⚡ Fun fact: Vibe coding is obsolete, real ones aura code.
+- 
 
 ## 🛠️ Tech Stack
 - 💡 **Languages**: JavaScript, TypeScript, C++, Java, Dart, HTML, CSS  
